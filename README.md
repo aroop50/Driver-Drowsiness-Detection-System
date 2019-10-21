@@ -22,3 +22,7 @@ TECHNOLOGY USED:-
 1. OpenCV(Python)
 2. Dlib
 3. PyCharm IDE
+
+
+Note :- shape_predictor_68_face_landmarks.dat file is required for face detection process. It can be downloaded from the given link :-
+https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat.
